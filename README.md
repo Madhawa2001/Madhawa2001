@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Madhawa2001)
+
 
 <!--
 **Madhawa2001/Madhawa2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
